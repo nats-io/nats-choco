@@ -18,7 +18,7 @@ This simplifies the moderation process with Chocolatey, and ensures proper binar
 
 1. `chdir` to the `gnatsd` direcory.
 2. Inspect/Edit the `gnatsd.nuspec` and `tools\ChocolateyInstall.ps1` to ensure the correct version numbers are set.
-3. `build_package`
+3. `build_package` creates the package as a <gnatsd>.<version>.<packagefix>.nupkg file .
 4. `test_package` and inspect output for errors.
 4. Upload the package to Chocolatey, and begin the moderation process...
  
