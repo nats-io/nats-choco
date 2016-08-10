@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>nats-streaming-server</id>
+    <title>NATS Streaming Server (nats-streaming-server)</title>
+    <version>0.2.2.20160810</version>
+    <authors>Apcera, Inc.</authors>
+    <owners>Apcera, Inc.</owners>
+    <summary>NATS Streaming Server - the streaming server component of a central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
+    <description>NATS acts as a central nervous system for distributed systems such as mobile devices, IoT networks, enterprise microservices and cloud native infrastructure. Unlike traditional enterprise messaging systems, NATS provides an always on &apos;dial-tone&apos;.  This is the streaming server component.</description>
+    <projectUrl>https://nats.io/</projectUrl>
+    <tags>apcera server messaging cloud middeware nats publish subscribe streaming persistence</tags>
+    <copyright>Apcera, Inc.</copyright>
+    <licenseUrl>https://raw.githubusercontent.com/nats-io/nats-streaming-server/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://avatars1.githubusercontent.com/u/10203055?v=3&amp;s=200</iconUrl>
+    <docsUrl>https://nats.io/documentation/streaming/nats-streaming-intro/</docsUrl>
+    <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
+    <bugTrackerUrl>https://github.com/nats-io/nats-streaming-server/issues</bugTrackerUrl>
+    <packageSourceUrl>https://github.com/nats-io/nats-streaming-server/tree/v0.2.2</packageSourceUrl>
+    <releaseNotes>https://github.com/nats-io/nats-streaming-server/releases/tag/v0.2.2</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
