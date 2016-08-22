@@ -1,11 +1,11 @@
 #  Copyright 2016 Apcera Inc. All rights reserved.
 
 $packageName = 'gnatsd'
-$url = 'https://github.com/nats-io/gnatsd/releases/download/v0.9.2/gnatsd-v0.9.2-windows-386.zip'
-$checksum = 'E8F3BEA4316B366FD908FFDF2D5D7AE36C4E84E1'
+$url = 'https://github.com/nats-io/gnatsd/releases/download/v0.9.4/gnatsd-v0.9.4-windows-386.zip'
+$checksum = 'C3E7D0CCBDDE4A838765861DE272FF7D39AFC8DD'
 $checksumType = 'sha1'
-$url64 = 'https://github.com/nats-io/gnatsd/releases/download/v0.9.2/gnatsd-v0.9.2-windows-amd64.zip'
-$checksum64 = 'A6FDED934FD68BA451E6279E1FED4E10D4472946'
+$url64 = 'https://github.com/nats-io/gnatsd/releases/download/v0.9.4/gnatsd-v0.9.4-windows-amd64.zip'
+$checksum64 = '08BB5091B6EDCB45B128442895A7C8316BADBC27'
 $checksumType64 = $checksumType
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
