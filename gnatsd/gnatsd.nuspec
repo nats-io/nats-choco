@@ -3,7 +3,7 @@
   <metadata>
     <id>gnatsd</id>
     <title>NATS Server (gnatsd)</title>
-    <version>0.9.4.20160818</version>
+    <version>0.9.6.20161216</version>
     <authors>Apcera, Inc.</authors>
     <owners>Apcera, Inc.</owners>
     <summary>NATS server - A central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
@@ -17,8 +17,8 @@
     <docsUrl>http://nats.io/documentation/server/gnatsd-intro</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/gnatsd/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/nats-io/gnatsd/tree/v0.9.4</packageSourceUrl>
-    <releaseNotes>https://github.com/nats-io/gnatsd/releases/tag/v0.9.4</releaseNotes>
+    <packageSourceUrl>https://github.com/nats-io/gnatsd/tree/v0.9.6</packageSourceUrl>
+    <releaseNotes>https://github.com/nats-io/gnatsd/releases/tag/v0.9.6</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
