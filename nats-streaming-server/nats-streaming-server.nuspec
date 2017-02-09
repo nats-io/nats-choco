@@ -3,7 +3,7 @@
   <metadata>
     <id>nats-streaming-server</id>
     <title>NATS Streaming Server (nats-streaming-server)</title>
-    <version>0.2.2.20160810</version>
+    <version>0.3.8.20170209</version>
     <authors>Apcera, Inc.</authors>
     <owners>Apcera, Inc.</owners>
     <summary>NATS Streaming Server - the streaming server component of a central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
@@ -17,8 +17,8 @@
     <docsUrl>https://nats.io/documentation/streaming/nats-streaming-intro/</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/nats-streaming-server/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/nats-io/nats-streaming-server/tree/v0.2.2</packageSourceUrl>
-    <releaseNotes>https://github.com/nats-io/nats-streaming-server/releases/tag/v0.2.2</releaseNotes>
+    <packageSourceUrl>https://github.com/nats-io/nats-streaming-server/tree/v0.3.8</packageSourceUrl>
+    <releaseNotes>https://github.com/nats-io/nats-streaming-server/releases/tag/v0.3.8</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
