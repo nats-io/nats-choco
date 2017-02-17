@@ -17,7 +17,6 @@
     <docsUrl>https://nats.io/documentation/streaming/nats-streaming-intro/</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/nats-streaming-server/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/nats-io/nats-streaming-server/tree/v0.3.8</packageSourceUrl>
     <releaseNotes>https://github.com/nats-io/nats-streaming-server/releases/tag/v0.3.8</releaseNotes>
   </metadata>
   <files>
