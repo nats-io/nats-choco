@@ -3,7 +3,7 @@
   <metadata>
     <id>nats-server</id>
     <title>NATS Server</title>
-    <version>2.0.2.20190610</version>
+    <version>2.0.0.20190610</version>
     <authors>The NATS Authors</authors>
     <owners>CNCF</owners>
     <summary>NATS Server - A central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
