@@ -3,21 +3,21 @@
   <metadata>
     <id>nats-streaming-server</id>
     <title>NATS Streaming Server (nats-streaming-server)</title>
-    <version>0.3.8.20170209</version>
-    <authors>Apcera, Inc.</authors>
-    <owners>Apcera, Inc.</owners>
+    <version>0.15.1.20190610</version>
+    <authors>The NATS Authors</authors>
+    <owners>CNCF</owners>
     <summary>NATS Streaming Server - the streaming server component of a central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
     <description>NATS acts as a central nervous system for distributed systems such as mobile devices, IoT networks, enterprise microservices and cloud native infrastructure. Unlike traditional enterprise messaging systems, NATS provides an always on &apos;dial-tone&apos;.  This is the streaming server component.</description>
     <projectUrl>https://nats.io/</projectUrl>
-    <tags>apcera server messaging cloud middeware nats publish subscribe streaming persistence</tags>
-    <copyright>Apcera, Inc.</copyright>
+    <tags>CNCF server messaging cloud middeware nats publish subscribe streaming persistence</tags>
+    <copyright>Copyright 2019 The NATS Authors</copyright>
     <licenseUrl>https://raw.githubusercontent.com/nats-io/nats-streaming-server/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://avatars1.githubusercontent.com/u/10203055?v=3&amp;s=200</iconUrl>
-    <docsUrl>https://nats.io/documentation/streaming/nats-streaming-intro/</docsUrl>
+    <iconUrl>https://github.com/cncf/artwork/blob/master/nats/icon/color/nats-icon-color.png?raw=true</iconUrl>
+    <docsUrl>https://nats-io.github.io/docs/nats_streaming/gettingstarted/install.html</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/nats-streaming-server/issues</bugTrackerUrl>
-    <releaseNotes>https://github.com/nats-io/nats-streaming-server/releases/tag/v0.3.8</releaseNotes>
+    <releaseNotes>https://github.com/nats-io/nats-streaming-server/releases/tag/v0.15.1</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
