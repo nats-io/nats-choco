@@ -1,11 +1,11 @@
-#  Copyright 2016 Apcera Inc. All rights reserved.
+#  Copyright 2019 The NATS Authors. All rights reserved.
 
 $packageName = 'nats-streaming-server'
-$url = 'https://github.com/nats-io/nats-streaming-server/releases/download/v0.3.8/nats-streaming-server-v0.3.8-windows-386.zip'
-$checksum = '4AF1166D8AA600AEE289BFA7DFE01C6DB601F7CBA6F3AA6A88366C20EDF35E7A'
+$url = 'https://github.com/nats-io/nats-streaming-server/releases/download/v0.15.1/nats-streaming-server-v0.15.1-windows-386.zip'
+$checksum = 'AB66AF731A27065558FE332F5D1CC1E25D3CBA32832131697556A56F51EA6D83'
 $checksumType = 'sha256'
-$url64 = 'https://github.com/nats-io/nats-streaming-server/releases/download/v0.3.8/nats-streaming-server-v0.3.8-windows-amd64.zip'
-$checksum64 = '0E9D32BA0013E397A313774DC261ED8D20FA93ABF1DA96EE8BE2896339FE1299'
+$url64 = 'https://github.com/nats-io/nats-streaming-server/releases/download/v0.15.1/nats-streaming-server-v0.15.1-windows-amd64.zip'
+$checksum64 = '32E8E5455354D59DAA13D359A529B23729D0C49680C2F1267FEEC9C4E16F9C83'
 $checksumType64 = $checksumType
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 

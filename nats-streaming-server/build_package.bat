@@ -1,3 +1,3 @@
 @ECHO OFF
-REM  Copyright 2016 Apcera Inc. All rights reserved.
+REM  Copyright 2019 The NATS Authors. All rights reserved.
 choco pack

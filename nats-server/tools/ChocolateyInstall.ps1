@@ -1,11 +1,11 @@
-#  Copyright 2016 Apcera Inc. All rights reserved.
+#  Copyright 2019, The NATS Authors. All rights reserved.
 
-$packageName = 'gnatsd'
-$url = 'https://github.com/nats-io/gnatsd/releases/download/v1.0.2/gnatsd-v1.0.2-windows-386.zip'
-$checksum = '63E849E74614AC2C44912ACD7CA0B5A2F100B01A'
+$packageName = 'nats-server'
+$url = 'https://github.com/nats-io/nats-server/releases/download/v2.0.0/nats-server-v2.0.0-windows-386.zip'
+$checksum = 'AE02BA59FB5E1B6CC976A0E24C2D51E5924BE7AB'
 $checksumType = 'sha1'
-$url64 = 'https://github.com/nats-io/gnatsd/releases/download/v1.0.2/gnatsd-v1.0.2-windows-amd64.zip'
-$checksum64 = 'F03BC03676240E3F5F44387DA0FB50E7FAB05FBC'
+$url64 = 'https://github.com/nats-io/nats-server/releases/download/v2.0.0/nats-server-v2.0.0-windows-amd64.zip'
+$checksum64 = '8889279FD8CED6B488FB4F7879AEAEC402A1F639'
 $checksumType64 = $checksumType
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>nats-server</id>
+    <title>NATS Server</title>
+    <version>2.0.0.20190610</version>
+    <authors>The NATS Authors</authors>
+    <owners>CNCF</owners>
+    <summary>NATS Server - A central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
+    <description>NATS acts as a central nervous system for distributed systems such as mobile devices, IoT networks, enterprise microservices and cloud native infrastructure. Unlike traditional enterprise messaging systems, NATS provides an always on &apos;dial-tone&apos;.  This is the server component.</description>
+    <projectUrl>https://nats.io/</projectUrl>
+    <tags>CNCF server messaging cloud middeware nats publish subscribe</tags>
+    <copyright>Copyright 2019 The NATS Authors</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/cncf/artwork/blob/master/nats/icon/color/nats-icon-color.png?raw=true</iconUrl>
+    <docsUrl>https://nats-io.github.io/docs/nats_server/installation.html</docsUrl>
+    <licenseUrl>https://raw.githubusercontent.com/nats-io/nats-server/master/LICENSE</licenseUrl>
+    <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
+    <bugTrackerUrl>https://github.com/nats-io/nats-server/issues</bugTrackerUrl>
+    <packageSourceUrl>https://github.com/nats-io/nats-server/tree/v2.0.0</packageSourceUrl>
+    <releaseNotes>https://github.com/nats-io/nats-server/releases/tag/v2.0.0</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
