@@ -17,8 +17,8 @@
     <licenseUrl>https://raw.githubusercontent.com/nats-io/nats-server/master/LICENSE</licenseUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/nats-server/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/nats-io/nats-server/tree/v2.9.5</packageSourceUrl>
-    <releaseNotes>https://github.com/nats-io/nats-server/releases/tag/v2.9.5</releaseNotes>
+    <packageSourceUrl>https://github.com/nats-io/nats-server/tree/v2.9.15</packageSourceUrl>
+    <releaseNotes>https://github.com/nats-io/nats-server/releases/tag/v2.9.15</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
