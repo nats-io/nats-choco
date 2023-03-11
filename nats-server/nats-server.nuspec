@@ -13,11 +13,11 @@
     <copyright>Copyright 2019 The NATS Authors</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://github.com/cncf/artwork/blob/master/nats/icon/color/nats-icon-color.png?raw=true</iconUrl>
-    <docsUrl>https://nats-io.github.io/docs/nats_server/installation.html</docsUrl>
+    <docsUrl>https://docs.nats.io/running-a-nats-service/introduction/installation</docsUrl>
     <licenseUrl>https://raw.githubusercontent.com/nats-io/nats-server/master/LICENSE</licenseUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/nats-server/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/nats-io/nats-server/tree/v2.9.15</packageSourceUrl>
+    <packageSourceUrl>https://github.com/nats-io/nats-server/releases/tag/v2.9.15</packageSourceUrl>
     <releaseNotes>https://github.com/nats-io/nats-server/releases/tag/v2.9.15</releaseNotes>
   </metadata>
   <files>
