@@ -3,7 +3,7 @@
   <metadata>
     <id>nats-server</id>
     <title>NATS Server</title>
-    <version>2.0.0.20190610</version>
+    <version>2.9.15</version>
     <authors>The NATS Authors</authors>
     <owners>CNCF</owners>
     <summary>NATS Server - A central nervous system for modern, reliable, and scalable cloud and distributed systems.</summary>
@@ -13,12 +13,12 @@
     <copyright>Copyright 2019 The NATS Authors</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://github.com/cncf/artwork/blob/master/nats/icon/color/nats-icon-color.png?raw=true</iconUrl>
-    <docsUrl>https://nats-io.github.io/docs/nats_server/installation.html</docsUrl>
+    <docsUrl>https://docs.nats.io/running-a-nats-service/introduction/installation</docsUrl>
     <licenseUrl>https://raw.githubusercontent.com/nats-io/nats-server/master/LICENSE</licenseUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/natsio</mailingListUrl>
     <bugTrackerUrl>https://github.com/nats-io/nats-server/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/nats-io/nats-server/tree/v2.0.0</packageSourceUrl>
-    <releaseNotes>https://github.com/nats-io/nats-server/releases/tag/v2.0.0</releaseNotes>
+    <packageSourceUrl>https://github.com/nats-io/nats-server/releases/tag/v2.9.15</packageSourceUrl>
+    <releaseNotes>https://github.com/nats-io/nats-server/releases/tag/v2.9.15</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
