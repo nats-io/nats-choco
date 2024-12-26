@@ -1,3 +1,8 @@
+> [!CAUTION]
+>
+> Use https://scoop.sh instead, where both `nats-server` and `natscli` 
+> are packaged
+
 # NATS Chocolatey Packaging
 
 These are utilities to build [Chocolatey](https://chocolatey.org/) packages for NATS windows executables.  Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
